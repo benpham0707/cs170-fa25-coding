@@ -1,0 +1,3 @@
+otter-grader>=5.5.1
+numpy
+tqdm>=4.64.1
